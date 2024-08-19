@@ -20,7 +20,7 @@ assembly with serial to parallel shift register in order to conviniently
 controll the display since the MCU that I used did not have enought 
 outputs to manipulate display on its own (figure 2). 
 
-![Fig. 2](/Images/proto_view2.png)
+![Fig. 2](/Images/proto_view2.jpg)
 **Figure 2.**
 
 As an MCU I used ATtiny44A because it has a very small package and also
