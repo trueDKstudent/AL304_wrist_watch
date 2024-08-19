@@ -1,0 +1,8 @@
+# AL304_watch_workspace ignore files and folders
+
+Release/
+Debug/
+Datasheets/
+.vs/
+Images/watch_on_wrist.jpg
+Images/ATtiny-44A.png
